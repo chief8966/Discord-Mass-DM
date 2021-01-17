@@ -2,7 +2,7 @@ import discord
 import asyncio
 from discord.ext import commands
 
-token = 'User Token Here'
+token = 'Nzg4MDYxNzkwOTEwOTM5MTM5.X9eBvA.bADf1nEY8L-ukShn9wdEdPoe-ps'
 
 prefix = 'gay!'
 client = discord.Client()
